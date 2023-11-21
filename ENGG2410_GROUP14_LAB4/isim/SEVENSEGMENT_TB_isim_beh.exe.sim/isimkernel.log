@@ -1,0 +1,10 @@
+Command line:
+   SEVENSEGMENT_TB_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51833
+
+Tue Oct 24 14:01:56 2023
+
+
+ Elaboration Time: 0.05 sec
