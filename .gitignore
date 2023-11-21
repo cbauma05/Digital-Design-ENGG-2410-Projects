@@ -1,5 +1,1 @@
-# Ignore all files and directories
-/*
 
-# Except .vhd files
-!*.vhd
