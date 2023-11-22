@@ -1,4 +1,0 @@
-vhdl work "half_adder.vhd"
-vhdl work "onebit_adder.vhd"
-vhdl work "FourBitAdder.vhd"
-vhdl work "sevensegment_vhdl.vhd"

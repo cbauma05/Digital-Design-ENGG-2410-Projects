@@ -1,4 +1,11 @@
 # Ignore all files except .vhd in Adder-Subtractor Unit directory
-Adder-Subtractor Unit/*
-!Adder-Subtractor Unit/*.vhd
+Adder-Subtractor-Unit/*
+!Adder-Subtractor-Unit/*.vhd
 
+# Ignore all files except .vhd in Sequence Recognizer Circuit directory
+Sequence-Recognizer-Circuit/*
+!Sequence-Recognizer-Circuit/*.vhd
+
+# Ignore all files except .vhd in Seven Segment Display directory
+Seven-Segment-Display/*
+!Seven-Segment-Display/*.vhd
